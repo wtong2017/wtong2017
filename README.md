@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I'm currently studying PhD at the Hong Kong University of Science and Technology (HKUST) as a PhD candidate
+- 🔭 I’m currently working on [HKUST VisLab](http://vis.cse.ust.hk/)
+- 📜 I'm currently doing research on **VR/AR Data Visualization**
+- 🌱 I’m currently learning VR/AR Application Development, Data Visualization 📊, Full Stack Web Development
+- 📫 How to reach me: <wtong@connect.ust.hk>

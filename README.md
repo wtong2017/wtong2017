@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm currently studying PhD at the Hong Kong University of Science and Technology (HKUST) as a PhD candidate
-- 🔭 I’m currently working on [HKUST VisLab](http://vis.cse.ust.hk/)
+- 🏫 I'm currently a a PhD candidate studying at the Hong Kong University of Science and Technology (HKUST) 
+- 🔭 I’m currently working as a member of [AR/VR team](http://vis.cse.ust.hk/groups/xr-vis/) in [HKUST VisLab](http://vis.cse.ust.hk/)
 - 📜 I'm currently doing research on **VR/AR Data Visualization**
-- 🌱 I’m currently learning VR/AR Application Development, Data Visualization 📊, Full Stack Web Development
+- 🌱 I’m currently learning Unity VR/AR Application Development, D3.js for Data Visualization 📊, and Vue+Koa for Full Stack Web Development
 - 📫 How to reach me: <wtong@connect.ust.hk>
